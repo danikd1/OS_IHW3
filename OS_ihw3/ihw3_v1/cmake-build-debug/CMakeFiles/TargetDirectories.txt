@@ -1,3 +1,0 @@
-/Users/macbookpro/CLionProjects/ihw3_v1/cmake-build-debug/CMakeFiles/ihw3_v1.dir
-/Users/macbookpro/CLionProjects/ihw3_v1/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/macbookpro/CLionProjects/ihw3_v1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
